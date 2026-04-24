@@ -1,3 +1,4 @@
+#membership operator
 l = [1, 2, 3, 4, 5]
 s = "Hello World"
 d = {1: "Nistha", 2: "Is", 3: "Devi"}
